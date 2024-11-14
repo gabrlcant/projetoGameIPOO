@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Zombie
+comment0.text=\r\n\ @author\ (gabriel\ cantanhede)\ \r\n\ @version\ (2024-11-14)\r\n
+comment1.params=
+comment1.target=Zombie()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ idle()
+comment4.params=
+comment4.target=void\ moveRight()
+comment5.params=
+comment5.target=void\ moveLeft()
+comment6.params=
+comment6.target=void\ moveBack()
+numComments=7
